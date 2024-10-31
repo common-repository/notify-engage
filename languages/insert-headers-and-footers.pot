@@ -1,0 +1,66 @@
+# Copyright (C) 2020 Imsuccesses
+# This file is distributed under the same license as the Notify Engage plugin.
+msgid ""
+msgstr ""
+
+
+#. Plugin Name of the plugin
+msgid "Notify Engage"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.imsuccesses.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plug-in will be used for integration with notify engage portal"
+msgstr ""
+
+#. Author of the plugin
+msgid "Imsuccesses"
+msgstr ""
+
+#: views/settings.php:2
+#: views/settings.php:23
+msgid "Settings"
+msgstr ""
+
+#: views/settings.php:28
+msgid "Scripts in Header"
+msgstr ""
+
+#: views/settings.php:30
+msgid "These scripts will be printed in the <code>&lt;head&gt;</code> section."
+msgstr ""
+
+#: views/settings.php:33
+msgid "Scripts in Footer"
+msgstr ""
+
+#: views/settings.php:35
+msgid "These scripts will be printed above the <code>&lt;/body&gt;</code> tag."
+msgstr ""
+
+#: views/settings.php:39
+msgid "Save"
+msgstr ""
+
+#. translators: %s: Name of this plugin
+
+
+#: notify-engage.php:145
+msgid "Sorry, you are not allowed to access this page."
+msgstr ""
+
+#: notify-engage.php:154
+msgid "nonce field is missing. Settings NOT saved."
+msgstr ""
+
+#: notify-engage.php:157
+msgid "Invalid nonce specified. Settings NOT saved."
+msgstr ""
+
+#: notify-engage.php:165
+msgid "Settings Saved."
+msgstr ""
